@@ -1,0 +1,56 @@
+Que metodo de busqueda toma menos memoria:
+A. Breadth-First y Depth-First toman menos memoria ambos
+B. Busqueda Lineal
+C. Depth-First 
+D. Breadth-First
+
+Una heuristica es una manera de: 
+A. Comparar dos nodos en un arbol de busqueda para ver si uno es mejor que otro
+B. Buscar y medir que tan lejos un nodo en el arbol esta tan lejos de su objetivo o meta
+C. Descubrir algo o una idea embebida en un programa, generalmente un objetivo
+D. Todas las anteriores
+
+Cual es la mejor manera de resolver un problema de juegos:
+A.  Un acercamiento optimo
+B.  Un acercamiento lineal
+C.  Un acercamiento aleatorio
+D.  Un acercamiento heuristico
+
+El algoritmo A* es un algoritmo basado en:
+A. Depth-First
+B. Best-First
+C. Hill-Climbing
+D. Breadth-First
+
+En ambientes no deterministicos los agentes AND-OR se utilizan para generar plane de contingenica y asi alcanzar el objetivo pasada cualquier ocurrencia:
+A. Cierto
+B. Falso
+
+Un algoritmo general de arbol de busqueda considera todas las posibles rutas para encontrar una solucion mientras que un algoritmo basado en busqueda grafica evita la consideracion de caminos redundantes:
+A. Cierto
+B. Falso
+
+Cual de los siguientes metodos no forma parte de una busqueda uniformada:
+A. Breadth-First
+B. A*
+C. Busqueda Bidireccional
+D. Costo Uniforme
+
+Un problema consiste de 5 partes, cuales de estas no es:
+A. Estado Inicial
+B. Acciones
+C. Descripcion atomica
+D. Funcion objetivo
+E. Modelo de Transicion
+
+Como tratan los algoritmos de busqueda sus estados y acciones, es decir, de que manera:
+A. como graficos
+B. como perceptos
+C. como agentes
+D. como descripciones atomicas
+
+En un algoritmo genetico como son generados los nuevos estados:
+A. Mutacion y Cruces
+B. Regeneracion y Persistencia
+C. Cruces y Persistencia
+D. Mutacion y Regeneracion
