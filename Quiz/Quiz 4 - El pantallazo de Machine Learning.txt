@@ -1,0 +1,80 @@
+Que es machine learning
+A. Una configuracion especial en las maquinas para habilitar su aprendizaje
+B. Algoritmos que hacen que la maquina aprenda sin necesidad de hacer explicita la programacion
+C. Realizar programacion por medio de IF ELSE para que la maquina aprenda
+D. Realizar reglas de entrada y salida para que la maquina aprenda
+E. Todas las anteriores
+F. Ninguna de las anteriores
+
+Serie de algoritmos que se especifica como entrada datos y etiquetas y tiene como salida un modelo 
+A. Supervised Learning
+B. Unsupervised Learning
+C. Semi supervised Learning
+D. Reinforcement Learning
+E. Todas las anteriores
+F. Ninguna de las anteriores
+
+Cuando al modelo ingresamos datos categoricos y la salida del modelo es un numero:
+A. Clasificacion
+B. Regresion lineal
+C. Regresion Logistica
+D. Bagging
+E. Todas las anteriores
+F. Ninguna de las anteriores
+
+Serie de algoritmos que estipulan recompensa y perdida por medio de politicas
+A. Machine Learning
+B. Supervised Learning
+C. Reinforcement Learning
+D. Clasificacion
+E. Todas las anteriores
+F. Ninguna de las anteriores
+
+En batch learning tenemos que aprender sobre la data en el vuelo (a medida que se ingresa)
+A. Cierto
+B. Falso
+
+Cuando estoy haciendo un reconocedor de objetos con reidentificacion y declaro un vector de caracteristicas para establecer si es la misma persona o no:
+A. Aprendizaje basado en modelo
+B. Aprendizaje basado en instancia
+C. Aprendizaje automatico
+D. Aprendizaje estocastico
+E. Todas las anteriores
+F. Ninguna de las anteriores
+
+
+Cual de los siguientes metodos no es un algoritmo no supervisado
+A. PCA
+B. Eclat
+C. t-SNE
+D. SVM de 1 clase
+E. Regresion logistica
+F. Todas las anteriores
+G. Ninguna de las anteriores
+
+
+Entrene un algoritmo y tengo 97% acurracy pero tengo 10% acurracy en el test set:
+A. Underfitting
+B. High bias
+C. High variance
+D. Overfitting
+E. Todas las anteriores
+F. Ninguna de las anteriores
+
+
+Tengo baja precision en el validation set y tambien en el test set
+A. Underfitting
+B. Overfitting
+C. High bias
+D. Hight variance
+E. Todas las anteriores
+F. Ninguna de las anteriores
+
+
+Entrenado el modelo de 40000 datos con el 100% del dataset (los 40000 datos), tomo como mi test set el 20% del set de datos de entrenamiento
+A. El modelo esta bien hecho, hemos validado el training set con el test set
+B. El modelo bien hecho, ya podemos ponerlo en produccion
+C. El modelo esta mal hecho, lo hemos tenido que dividor en 98%/1%
+D. El modelo esta mal hecho hemos de utilizar parte del dataset para training y la otra parte no vista por el modelo como el test set o tener un test set que no este presente en el dataset
+E. Todas las anteriores
+F. Ninguna de las anteriores
