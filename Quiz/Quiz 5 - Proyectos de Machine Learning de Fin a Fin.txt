@@ -1,0 +1,85 @@
+Tengo un modelo que marca los puntos faciales de una persona
+A. Se hace con un modelo de deteccion de anomalias
+B. Se basa en promedio movil ponderado
+C. Es un modelo de clasificacion
+D. Es un modelo de regresion
+E. Todas las anteriores
+F. Ninguna de las anteriores
+
+
+Es conocido como distancia Manhattan
+A. L1 norm
+B. L2 norm
+C. RMSE
+D. DBSCAN
+E. Todas las anteriores
+F. Ninguna de las anteriores
+
+
+Normalmente dividimos el dataset en 80 / 20.  A este 20 porciento se le conoce regularmente como
+A. Training Set
+B. Validation Set
+C. Test Set
+D. Cross-Validation Set
+E. Todas las anteriores
+F. Ninguna de las anteriores
+
+
+Un dato arroja -0.9 en su correlacion contra otro dato.  Esto significa
+A. Relacion directa alta
+B. Relacion directa baja
+C. Relacion inversa baja
+D. Relacion inversa alta
+E. Todas las anteriores
+F. Ninguna de las anteriores
+
+
+Cuando hacemos limpieza de datos tenemos informacion categorica que podemos ingresar directamente al modelo
+A. Cierto
+B. Falso
+
+
+Para entrenar al modelo utilizamos el siguiente metodo
+A. .transform()
+B. .fit()
+C. .train()
+D. .train_test()
+E. Todas las anteriores
+F. Ninguna de las anteriores
+
+
+Tengo un split del dataset y voy a aplicar validacion cruzada, puedo aplicar esto haciendo
+A. KFold
+B. fit_transform
+C. fit
+D. transform
+E. corr
+F. Todas las anteriores
+G. Ninguna de las anteriores
+
+
+Puedo obtener los mejores hiperparametros del modelo AUTOMATICAMENTE haciendo
+A. GridSearch
+B. Manual Tunning
+C. RandomizedGridSearch
+D. Matriz de covarianza
+E. Todas las anteriores
+F. Ninguna de las anteriores
+
+
+Para servir el algoritmo en una pagina web debemos obtener
+A. El REST API
+B. El modelo en un formato serializable
+C. La aplicacion de android
+D. La aplicacion de react js
+E. Todas las anteriores
+F. Ninguna de las anteriores
+
+
+Cual de las siguientes no es una plataforma para servir una aplicacion de IA
+A. GCP (Google Cloud Platform)
+B. AWS (Amazon Web Services)
+C. Microsoft Azure
+D. Yahoo Web Services
+E. Todas las anteriores
+F. Ninguna de las anteriores
