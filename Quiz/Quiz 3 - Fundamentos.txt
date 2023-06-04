@@ -1,0 +1,88 @@
+¿Que es el machine learning?
+A. Un conjunto de tecnicas que permiten a las maquinas aprender a partir de datos
+B. Un conjunto de tecnicas que permiten a las maquinas procesar grandes cantidades de datos
+C. Un conjunto de tecnicas que permiten a las maquinas interpretar datos
+
+¿Que es un vector en matemáticas?
+A. Una cantidad escalar
+B. Una cantidad con direccion y magnitud
+C. Una funcion matematica
+
+¿Que es una matriz en matemáticas?
+A. Una cantidad escalar
+B. Una cantidad con direccion y magnitud
+C. Un arreglo n-dimensional de elementos numericos
+
+¿Cual es la operacion matricial que representa la transposicion de una matriz A?
+A. A.T
+B. A**-1
+c. A**2
+
+5. Si quisieramos multiplicar  'A' y 2  ¿podríamos realizar la operación?
+A. SI
+B. NO
+
+¿Que es una funcion matematica?
+A. Un conjunto de reglas que asignan a cada elemento de un conjunto de entrada un unico elemento de un conjunto de salida
+B. Un conjunto de numeros
+C. Un conjunto de vectores
+
+¿Que es una funcion lineal en matematicas?
+A. Una funcion que tiene la forma f(x) = a*x + b
+B. Una funcion que tiene la forma f(x) = ax**2 + b*x + c
+C. Una funcion que tiene la forma f(x) = e**x
+
+¿Que es una funcion exponencial en matematicas?
+A. Una funcion que tiene la forma f(x) = a*x + b
+B. Una funcion que tiene la forma f(x) = ax**2 + b*x + c
+C. Una funcion que tiene la forma f(x) = e**x
+
+¿Que es la regresion lineal en el contexto del machine learning?
+A. Un algoritmo de clasificación que utiliza una funcion lineal para separar dos clases de datos
+B. Un algoritmo que encuentra la mejor línea recta que describe la relación entre dos variables
+C. Un algoritmo que utiliza una funcion exponencial para predecir los valores de una variable a partir de otra variable.
+
+¿Cuales son los tres tipos principales de machine learning?
+A. Aprendizaje supervisado, aprendizaje no supervisado, aprendizaje reforzado
+B. Aprendizaje no supervisado, aprendizaje semisupervisado, aprendizaje supervisado
+C. Aprendizaje no supervisado, aprendizaje supervisado, aprendizaje profundo
+
+¿Que es el aprendizaje supervisado?
+A. Un tipo de aprendizaje en el que la maquina aprende a partir de datos etiquetados
+B. Un tipo de aprendizaje en el que la máquina aprende a partir de datos no etiquetados
+C. Un tipo de aprendizaje en el que la máquina aprende a partir de datos generados aleatoriamente
+
+¿Que es una función de perdida?
+A. Una función que mide la discrepancia entre las predicciones de la máquina y los valores reales
+B. Una función que mide la complejidad del modelo de la máquina
+C. Una función que mide la velocidad a la que la máquina aprende
+
+¿Cual es el objetivo de la regresion logistica?
+A. Predecir valores continuos
+B. Predecir valores discretos
+C. Clasificar datos en diferentes categorías
+
+De las siguientes opciones, ¿que se puede resolver con la regresion logistica?
+A. Regresion lineal
+B. Regresion no lineal
+C. Clasificacion binaria y multiple
+
+¿Cual es la funcion de perdida utilizada en la regresion logistica?
+a. Entropia cuadratica 
+b. Entropia cruzada 
+c. Error cuadratico medio
+
+¿Cual es el objetivo de la regresion lineal? 
+A. Predecir valores continuos 
+B. Predecir valores discretos 
+C. Clasificar datos en diferentes categorías
+
+¿Cual es la funcion de costo utilizada en la regresion lineal? 
+A. Error cuadratico medio 
+B. Entropia cruzada binaria 
+C. Perdida logaritmica
+
+Como se puede evaluar si el modelo de regresion lineal se ajusta adecuadamente a los datos
+A. A traves de la inspección visual de los residuos 
+B. A traves de la comparación de los valores predichos con los valores reales 
+C. A traves del cálculo del error cuadrático medio
