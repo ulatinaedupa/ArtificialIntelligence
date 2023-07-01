@@ -1,0 +1,125 @@
+¿Cual de las siguientes afirmaciones es correcta sobre la Regresion Lineal?
+A. Es un algoritmo de clasificacion.
+B. Es util para predecir variables categoricas.
+C. Minimiza la suma de los errores cuadrados.
+D. No se puede aplicar a conjuntos de datos grandes.
+E. Ninguna de las anteriores.
+
+¿Cuál de las siguientes afirmaciones es correcta sobre la Regresion Logistica?
+A. Es un algoritmo de clasificacion.
+B. Es util para predecir variables continuas.
+C. Minimiza la suma de los errores absolutos.
+D. No se puede aplicar a datos desbalanceados.
+E. Todas las anteriores.
+
+¿Cual de las siguientes afirmaciones es correcta sobre los Modelos Lineales en Machine Learning?
+A. Son algoritmos basados en arboles de decision.
+B. Son adecuados solo para datos linealmente separables.
+C. Pueden manejar multiples caracteristicas de entrada.
+D. No se pueden utilizar en problemas de clasificacion.
+E. Ninguna de las anteriores.
+
+¿Cuál es el objetivo principal de la Regresion Lineal?
+A. Maximizar la precision de las predicciones.
+B. Minimizar la varianza de las caracteristicas de entrada.
+C. Minimizar la suma de los errores al cuadrado.
+D. Maximizar la sensibilidad del modelo.
+E. Todas las anteriores.
+
+¿Cual de las siguientes metricas se utiliza comunmente para evaluar un modelo de Regresion Lineal?
+A. Precision.
+B. Exactitud.
+C. F1-score.
+D. Coeficiente de determinación R^2
+E. Ninguna de las anteriores.
+
+¿Cual de las siguientes afirmaciones es correcta sobre el Coeficiente de Determinación R^2?
+A. Tiene un rango de valores entre -1 y 1.
+B. Indica la proporcion de la varianza de la variable objetivo que se puede predecir a partir de las caracteristicas de entrada.
+C. Un valor de R^2 cercano a 1 indica un ajuste pobre del modelo.
+D. No es una metrica util para evaluar la Regresion Lineal.
+E. Todas las anteriores.
+
+¿Cual de las siguientes afirmaciones es correcta sobre la Regresion Logistica?
+A. Se utiliza para predecir variables continuas.
+B. El resultado de la Regresion Logistica se puede interpretar como una probabilidad.
+C. Minimiza la suma de los errores al cuadrado.
+D. No se puede aplicar a datos desbalanceados.
+E. Todas las anteriores.
+
+¿Cual de las siguientes afirmaciones es correcta sobre la funcion de activación utilizada en la Regresion Logistica?
+A. La funcion sigmoide se utiliza comunmente como funcion de activacion.
+B. La funcion tangente hiperbolica tanh se utiliza comunmente como funcion de activacion.
+C. La funcion de paso se utiliza comúnmente como función de activacion.
+D. La funcion ReLU se utiliza comunmente como funcion de activacion.
+E. Ninguna de las anteriores.
+
+¿Cual de las siguientes metricas se utiliza comunmente para evaluar un modelo de Regresion Logistica?
+A. Precisión.
+B. F1-score.
+C. Area bajo la curva ROC AUC-ROC
+D. Recall
+E. Todas las anteriores.
+
+¿Cual de las siguientes afirmaciones es correcta sobre la funcion de perdida utilizada en la Regresion Logistica?
+A. La funcion de perdida utilizada es el error absoluto medio MAE
+B. La funcion de perdida utilizada es el error cuadrático medio MSE
+C. La funcion de perdida utilizada es la entropía cruzada binaria
+D. La funcion de perdida utilizada es el coeficiente de determinación R^2
+E. Ninguna de las anteriores
+
+¿Cual de las siguientes afirmaciones es correcta sobre la regularizacion en la Regresion Lineal?
+A. La regularizacion ayuda a reducir el sesgo del modelo.
+B. La regularizacion ayuda a reducir la varianza del modelo.
+C. La regularizacion no tiene ningun efecto en el modelo.
+D. La regularizacion solo se aplica en problemas de clasificación.
+E. Todas las anteriores.
+
+¿Cual de las siguientes afirmaciones es correcta sobre la regularizacion en la Regresion Logistica?
+A. La regularizacion ayuda a reducir el sobreajuste del modelo.
+B. La regularizacion solo se aplica en problemas de regresion.
+C. La regularizacion no tiene ningun efecto en el modelo.
+D. La regularizacion solo se aplica a datos desbalanceados.
+E. Ninguna de las anteriores.
+
+¿Cual de las siguientes afirmaciones es correcta sobre la seleccion de caracteristicas en la Regresion Lineal?
+A. La seleccion de caracteristicas no tiene ningun impacto en el rendimiento del modelo.
+B. La seleccion de caracteristicas ayuda a reducir la dimensionalidad del problema.
+C. La seleccion de caracteristicas solo se aplica en problemas de clasificacion.
+D. La seleccion de caracteristicas solo se aplica a datos desbalanceados.
+E. Todas las anteriores.
+
+¿Cual de las siguientes afirmaciones es correcta sobre la seleccion de caracteristicas en la Regresion Logistica?
+A. La seleccion de caracteristicas no tiene ningun impacto en el rendimiento del modelo.
+B. La seleccion de caracteristicas ayuda a reducir la dimensionalidad del problema.
+C. La seleccion de caracteristicas solo se aplica en problemas de regresión.
+D. La seleccion de caracteristicas solo se aplica a datos desbalanceados.
+E. Ninguna de las anteriores.
+
+¿Cual de las siguientes afirmaciones es correcta sobre la regresion lineal multiple?
+A. La regresion lineal multiple solo puede manejar una caracteristica de entrada.
+B. La regresion lineal multiple es una extension de la regresion logistica.
+C. La regresion lineal multiple puede manejar multiples caracteristicas de entrada.
+D. La regresion lineal multiple solo se aplica a variables categoricas.
+E. Ninguna de las anteriores.
+
+¿Cuál de las siguientes métricas se utiliza comúnmente para evaluar un modelo de regresión lineal múltiple?
+A. Precisión.
+B. Error absoluto medio MAE
+C. Área bajo la curva ROC AUC-ROC
+D. Coeficiente de determinación R^2
+E. Todas las anteriores
+
+¿Cuál de las siguientes afirmaciones es correcta sobre los residuos en la regresion lineal?
+A. Los residuos representan la diferencia entre los valores reales y las predicciones del modelo.
+B. Los residuos siempre tienen un valor absoluto de cero.
+C. Los residuos no proporcionan información util sobre la calidad del modelo.
+D. Los residuos se utilizan para calcular la entropia cruzada en la regresion lineal.
+E. Todas las anteriores.
+
+¿Cual de las siguientes afirmaciones es correcta sobre la regresion polinomica?
+A. La regresion polinomica solo puede modelar relaciones lineales entre variables.
+B. La regresion polinomica es una extension de la regresion logistica.
+C. La regresion polinomica puede modelar relaciones no lineales entre variables.
+D. La regresion polinomica solo se aplica a variables categoricas.
+E. Todas las anteriores.
