@@ -1,0 +1,5 @@
+classes= 5
+train  = DS_train.txt
+valid = DS_test.txt
+names = AerialCars/yolov4/config/yolov4.names
+backup = AerialCars/yolov4/backup/

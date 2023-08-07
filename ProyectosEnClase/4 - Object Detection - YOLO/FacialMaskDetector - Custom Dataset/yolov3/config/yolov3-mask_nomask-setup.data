@@ -1,0 +1,6 @@
+classes= 2
+train  = DS_train.txt
+valid = DS_test.txt
+names = FacialMaskDetector/yolov3/config/yolov3.names
+backup = FacialMaskDetector/yolov3/backup/
+
