@@ -1,9 +1,0 @@
-state_code,tenure,contract_length,promotions_offered,remaining_term,last_nps_rating,area_code,international_plan,voice_mail_plan,number_vmail_messages,total_day_minutes,total_day_calls,total_day_charge,total_eve_minutes,total_eve_calls,total_eve_charge,total_night_minutes,total_night_calls,total_night_charge,total_intl_minutes,total_intl_calls,total_intl_charge,number_customer_service_calls,prediction
-HI,121,9,Yes,4,5,area_code_510,no,no,14,338,21,47,81,136,15,199,87,9,10,10,2,4,1
-HI,121,9,Yes,4,5,area_code_510,yes,no,14,338,21,47,81,37,25,281,87,9,10,10,2,4,1
-HI,28,9,Yes,4,3,area_code_510,yes,no,14,121,120,19,81,37,6,34,87,9,10,10,2,4,1
-HI,28,9,Yes,4,3,area_code_510,yes,no,14,121,17,19,81,37,6,34,87,9,10,10,2,4,1
-HI,7,9,Yes,4,3,area_code_408,yes,yes,14,121,17,19,81,37,6,34,87,9,10,10,2,4,1
-HI,7,9,Yes,4,3,area_code_408,yes,yes,14,121,17,19,81,37,6,34,17,3,2,10,2,1,1
-IN,7,9,Yes,4,3,area_code_408,yes,yes,14,121,17,19,81,37,6,34,17,3,2,10,2,1,1
-IN,7,9,Yes,20,9,area_code_408,yes,yes,14,121,17,19,81,37,6,34,17,3,2,1,1,1,0

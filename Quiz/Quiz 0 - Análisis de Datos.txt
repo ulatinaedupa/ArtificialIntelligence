@@ -1,0 +1,68 @@
+Librería para análisis de Datos
+A. numpy
+B. matplotlib
+C. gensim
+D. polars
+E. Todas las anteriores
+F. Ninguna de las anteriores
+
+Muestra la diferencia de cuanto se desvía la media
+A. covarianza
+B. varianza
+C. desviación estándar
+D. distribución de bernoulli
+E. Todas las anteriores
+F. Ninguna de las anteriores
+
+Los cuartiles, deciles, percentiles son aquellos que:
+A. Dividen la data en partes diferentes
+B. Dividen el dataset
+C. Dividen el dataset en train y test
+D. Dividen las observaciones en partes iguales
+E. Todas las anteriores
+F. Ninguna de las anteriores
+
+Una gráfica con distribución central más hacia la derecha y una cola a la izquierda se dice es:
+A. left-skewed o sesgada a la izquierda
+B. right-skewed o sesgada a la derecha
+C. neutral o centrada
+D. Clasificacion
+E. Todas las anteriores
+F. Ninguna de las anteriores
+
+En una distirbución sesgada a la izquierda el orden de aparición de la moda, mediana y media es tipicamente como el mencionado
+A. Cierto
+B. Falso
+
+El termino de correlacion no puede dar negativo:
+A. Cierto
+B. Falso
+
+Un histograma representa
+A. los cuartiles
+B. la distribución de la data
+C. los percentiles
+D. frecuencia de binarios
+E. el tercer cuartil
+F. Todas las anteriores
+G. Ninguna de las anteriores
+
+La diferencia entre población y muestra estadistica:
+A. La poblacion es el conjunto representativo de la muestra que se selecciona para realizar observaciones o mediciones mientras que una muestra es el conjunto completo de elementos que poseen una caracteristica en comun 
+B. La poblacion es el conjunto completo de elementos que poseen una caracteristica en comun, mientras que una muestra es el subconjunto represnetativo de la poblacion que se selecciona para realizar observaciones o mediciones
+C. La muestra se obtiene por medio de la division de las variables de insumo en train y test mientras que la poblacion es el dataset de validacion y el dataset de train
+D. La poblacion se obtiene por medio de la division de las variables de insumo en train y test mientras que la muestra es el dataset de validacion y el dataset de train
+E. Todas las anteriores
+F. Ninguna de las anteriores
+
+La mediana y la moda detectan outliers
+A. Cierto
+B. Falso
+
+Los datos pueden proveer de fuentes como
+A. El entorno
+B. Data tabular
+C. Imagenes y Audio
+D. Documentos
+E. Todas las anteriores
+F. Ninguna de las anteriores
