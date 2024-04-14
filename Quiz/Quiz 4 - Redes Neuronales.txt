@@ -1,0 +1,47 @@
+Cual funcion de activacion no es buena para una red neuronal.
+A. sigmoid
+B. tanh
+C. ReLU
+D. y = mx+b
+
+La profundidad de una red neuronal es igual a
+A. El numero de neuronas en las capas ocultas
+B. El numero de neuronas en la capa de salida
+C. El numero de capas ocultas
+D. El numero de neuronas en las capas de entrada
+
+Cual es la diferencia entre CNN y las redes neuronales como perceptrones
+A. CNN son utilizadas para datos de alta dimension mientras que los perceptrones para baja dimensionalidad
+B. En las CNN los pesos entrenables se comparten a travez de las neuronas receptivas en una capa particulas pero no en los perceptrones 
+C. CNN son utilizadas para imagenes mientras que los perceptrones no pueden ser utilizados para imagenes
+D. No hay diferencia
+
+Considere la red neuronal de la arquitectura del problema de clasificacion superior.  El numero de clases del problema es
+A. 4
+B. 3
+C. 5
+D. No puede ser diferido
+
+Para la arquitectura de la red neuronal mostrada en la figura pervia, el numero de capas ocultas es
+A. 2
+B. 3
+C. 4
+D. 5
+
+¿Que es back-propagated durante la backpropagation?
+A. los pesos
+B. el error
+C. las predicciones
+D. Todas las anteriores
+E. Ninguna de las anteriores
+
+¿Que truco es el mas importante durante backpropagation?
+A. la regla de la cadena
+B. la computacion de la derivada
+
+¿Cuales no son frameworks de deep learning?
+A. Tensorflow
+B. Caffe
+C. Torch
+D. Spark
+E. Theano

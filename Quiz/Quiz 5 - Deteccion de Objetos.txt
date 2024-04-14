@@ -1,24 +1,22 @@
-1. Considere la red neuronal de la arquitectura data en este link, https://we.tl/t-qiEcVLcoIE. Si añadimos dos capas mas despues de dropout_2, entonces el numero de parametros entrenables seria.
-NOTA: Haga una red neuronal y experimente para conseguir la respuesta
+Considere la red neuronal de la arquitectura data en la figura. Si agregamos dos capas mas despues de dropout_2, entonces el numero de parametros entrenables seria. NOTA, Haga una red neuronal y experimente para conseguir la respuesta
 A. Se incrementa
 B. Decrementa
 C. Se mantiene igual
 E. Informacion Insuficiente
 
-2. Cual de los siguientes no es un detector de dos estados
+Cual de los siguientes no es un detector de dos estados
 A. R-CNN
 B. YOLO
 C. Fast-R-CNN
 D. Faster-R-CNN
 
-3. Cual es el ultimo paso del pipeline de deteccion de objetos
+Cual es el ultimo paso del pipeline de deteccion de objetos
 A. Supresion No Maxima
 B. Clasificacion del objeto
 C. Region Propuesta
 D. Regresion del bounding box
 
-4. Dada la imagen https://we.tl/t-2mZ7sSBoXr
-Se discutio en clase del IoU. Esta metrica tambien se utiliza para texto y comparte el mismo significado para imagenes.  Considere la imagen siendo la etiqueta la caja negra y la prediccion la azul.  Encuentre el score del IoU.
+Dada la segunda imagen del quiz, se discutio en clase del IoU. Esta metrica tambien se utiliza para texto y comparte el mismo significado para imagenes.  Considere la imagen siendo la etiqueta la caja negra y la prediccion la azul.  Encuentre el score del IoU.
 A. 0.75
 B. 0.36
 C. 0.48

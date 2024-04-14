@@ -1,0 +1,54 @@
+¿Cual de las siguientes guias para arte generativo es relacionada a propiedad intelectual y derechos de autor?
+A. Usar arte generativo de IA para reemplazar contenido existente
+B. Ignorar las leyes y derechos existentes y usar el contenido libremente
+C. Respetar la propiedad intelectual y los derechos de autor
+D. Ninguna de las anteriores
+
+¿Cual de los siguientes elementos es una guia de arte generativo respecto a contenido dañino?
+A. Apoyar la creacion de contenido dañino
+B. Restringir la creacion de contenido dañino
+C. No restringir la creacion de contenido dañino
+D. Ninguna de las anteriores
+
+¿Cual de las siguientes herramientas usa GPT-3 como arquitectura conversacional?
+A. ChatGPT
+B. Microsoft 365 Copilot
+C. RunawayML
+D. Stable Diffusion
+
+Investigue cual es la primera razon u objetivo de Github Copilot
+A. Generar imagenes
+B. Sintetizar voz
+C. Asistir en escritura de codigo
+D. Crear Videos
+
+¿Cual de los siguientes no puede ser considerado un modelo generativo de IA?
+A. GANs
+B. VAEs
+C. GPT
+D. Transformers
+
+Investigue cual de los siguientes no es un modelo multimodal
+A. CLIP
+B. GPT3
+C. GLIDE
+D. GPT4
+
+Investigue cual es el numero de tamaño de modelo en parametros de GPT3
+A. 1 Billon
+B. 17 Billones
+C. 175 Billones
+D. 800 Billones
+
+Investigue cual es el numero de tamaño de modelo en parametros de GPT4
+A. 100 Billones
+B. 1 Trillon
+C. 10 Trillones
+D. 100 Trillones
+E. Nadie sabe
+
+Que hace a Stable Diffusion tan impresionante
+A. Es super rapido
+B. Es de codigo abierto
+C. Es muy preciso
+D. Es mas estable que otros modelos de difusion
