@@ -1,0 +1,4 @@
+pandas-profiling
+ipywidgets
+scikit-learn
+pydantic<2.0
