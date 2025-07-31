@@ -1,0 +1,9 @@
+Here is a summary of the key points from the meeting notes:
+
+- The team discussed ways to improve their advertising strategies and leverage technology better. 
+- Data showed video ads are performing better than static images, especially shorter videos under 15 seconds and interactive/user-generated content.
+- They plan to invest more in interactive ad formats, influencer partnerships for user-generated content, and personalized ads using AI/machine learning algorithms.
+- The CTO (Jordan) will prioritize implementing personalized ad delivery based on user data within a few weeks, while ensuring robust data privacy measures.
+- The Product Manager (Taylor) will create a communication plan to transparently explain the personalized ad changes to users and maintain trust.
+- The Advertising Specialist (Casey) will coordinate content like blog posts/videos to educate users on personalized ads.
+- Collaboration between technology, product, data analytics, and advertising teams is critical for rolling out these ad strategy enhancements successfully.
