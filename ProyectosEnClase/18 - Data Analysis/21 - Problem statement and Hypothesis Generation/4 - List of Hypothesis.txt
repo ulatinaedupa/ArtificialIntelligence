@@ -1,0 +1,103 @@
+List of hypotheses for the below problem statement:
+
+What customer segments are more likely to churn balances in the next quarter by at least 50% considering the current quarter?
+
+
+
+Demographics
+
+Are females less likely to churn than males?
+Are young customers more likely to churn?
+Are customers located in Tier-1 cities more likely to churn?
+Are married people less likely to churn?
+Are older customers less likely to churn?
+Are customers in the lower income bracket more likely to churn?
+Are customers in the middle income bracket more likely to churn?
+Are customers in the higher income bracket more likely to churn?
+Are bachelors more prone to churning?
+Are customers with dependent(s) less likely to churn?
+Customers with an average family size less than 4 are more likely to attrite?
+Customers staying in a joint family are less likely to churn?
+Are homeowners (property holders) less likely to churn?
+Are customers with no property to their name more likely to churn?
+People with a disability are less likely to attrite?
+Are customers with 2 or more cars less likely to churn?
+Are customers who own no cars highly likely to churn?
+Are customers with a graduate degree less likely to churn?
+Are customers with no college degree more likely to churn?
+Customers living outside the country are less likely to churn?
+Customers holding a life insurance scheme are less likely to churn?
+Are people living closer to a bank branch less likely to churn?
+Customers holding a term insurance scheme are less likely to churn?
+
+
+Behaviour
+
+Are vintage customers less likely to churn?
+Are customers with higher average balance less likely to churn?
+Are customers dropping monthly balance high likely to churn?
+Customers who use netbanking are less likely to churn?
+Customers who do frequent digital transactions are less likely to churn?
+Are customers who hold a government scheme less likely to churn?
+Customers who haven’t performed a single online transaction are more likely to churn?
+Customers who hold a credit card are less likely to churn?
+Customers who have taken a house loan are less likely to churn?
+Customers who have taken a car/vehicle loan are less likely to churn?
+Customers who have taken a business loan are less likely to churn?
+Customers who have taken an education loan are less likely to churn?
+People eating out more than twice a week are less likely to churn?
+Are customers who recently unsubscribed from our emails more likely to churn?
+Are customers who recently unfollowed us on social media more likely to churn?
+Customers with high engagement in first month are less likely to churn?
+Are customers with no transaction is the last 3 months more likely to churn?
+Customers who use phone banking frequently are less likely to churn?
+Customers who use mobile banking frequently are less likely to churn?
+Are customers who frequently withdraw cash from ATMs less likely to churn?
+Are customers who have large withdrawal amounts in the last month more likely to churn?
+Are customers who have large withdrawal amounts in the last quarter more likely to churn?
+Are customers with less than 10 or more transactions in the last month more likely to churn?
+Customers who invest in the stock market are less likely to churn?
+Customers holding a fixed deposit account are less likely to churn?
+Are customers who closed a FD account prematurely more likely to churn?
+Are customers who closed a recurring deposit account prematurely more likely to churn?
+Customers holding without a DEMAT account are more likely to churn?
+Are customers who closed an education loan prematurely more likely to churn?
+Are customers who closed a car/vehicle loan prematurely more likely to churn?
+Are customers who closed a business loan prematurely more likely to churn?
+Are customers who closed a house loan prematurely more likely to churn?
+Customers who have not engaged with the bank in last quarter are more likely to churn?
+Customers who closed their DEMAT account in the last 6 months are more likely to churn?
+Customers who cancelled their credit/debit card in the last 6 months are more likely to churn?
+Are customers with a high complaint rate more likely to churn?
+Are customers with a high query rate more likely to churn?
+Customers who buy premium smartphones annually are less likely to churn?
+Customers with multiple bank accounts are more likely to churn?
+Are customers with a low credit score more likely to churn?
+Customers who have defaulted on loan payment in the past are more likely to churn?
+Customers who have defaulted on credit card payment in the past are more likely to churn?
+Customers who have defaulted on property tax payment in the past are more likely to churn?
+Customers who have defaulted on telephone bills in the past are more likely to churn?
+Customers who have defaulted on electricity bill payment in the past are more likely to churn?
+
+
+Psychographic
+
+Do customers that are inherently more loyal less likely to churn?
+Do customers that have interest in sports more likely to churn?
+Do customers who go to movies often are highly likely to churn?
+Customers who are avid gamers are more likely to churn?
+Are customers who follow the stock market closely more likely to churn?
+Do customers that are passive shoppers more likely to churn?
+Do customers who don’t pick up bank’s calls more likely to churn?
+Are customers who switch jobs regularly more likely to churn?
+Are customers with a criminal record more likely to churn?
+
+
+Other factors
+
+Customers getting a low rate of interest in fixed deposit compared to competitor banks are more likely to churn?
+Customers getting a low rate of interest in recurring deposit compared to competitor banks are more likely to churn?
+Customers incurring a high rate of interest in house loans compared to competitor banks are more likely to churn?
+Customers incurring a high rate of interest in car/vehicle loan compared to competitor banks are more likely to churn?
+Customers incurring a high rate of interest in education loans compared to competitor banks are more likely to churn?
+Customers incurring a high rate of interest in business loans compared to competitor banks are more likely to churn?
